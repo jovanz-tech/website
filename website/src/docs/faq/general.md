@@ -1,4 +1,4 @@
----
+---manhua18cc
 title: General
 titleTemplate: Frequently Asked Questions
 description: Frequently Asked Questions
